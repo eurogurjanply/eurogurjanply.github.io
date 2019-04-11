@@ -34,7 +34,13 @@
     "siteFonts": [],
     "uniqCompNum": 1,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "noImageResize": "true",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
