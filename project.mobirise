@@ -36,13 +36,19 @@
     "siteFonts": [],
     "uniqCompNum": 6,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/18ababc2-3599-43e7-ab2e-02ad1f690665-128x49.png",
+    "noImageResize": "true",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "eurogurjanply",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
